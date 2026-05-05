@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "stok_takip_sistemi/stok_takip_sistemi.sqlproj"
+    ]
+}
